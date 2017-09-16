@@ -18,7 +18,7 @@
 * Float.Photo — 2015 Berlin Photo Hack Day Grand Prize Winner
   * CakePHP, MySQL, EyeEm API, AWS, Digital Ocean
   * [link](https://bubblehub.club), [repo](https://github.com/okwme/float), [hackathon](https://www.eyeem.com/blog/the-winning-hacks-from-photo-hack-day-4-berlin/)
-* Sivi.me — 2012 Curriculum Vitae as an Artwork
+* Sivi.me — 2011 Curriculum Vitae as a Service
   * Exhibited a Klaus von Nichtssagend Gallery, NYC
   * [link](https://sivi.me), [repo](https://github.com/okwme/sivi)
 
