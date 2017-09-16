@@ -13,7 +13,7 @@
   * Vue.js Application using Ethereum Blockchain as Backend & Database
   * [link](https://clovers.network), [repo](https://github.com/okwme/clovers-dapp), [hackathon](www.hackathon.io/cosmos-hackathon1)
 * BubbleHub.Club — 2016 Berlin Travel Hack Grand Prize Winner
-  * Vue.js Application using A-Frame.js AR Library, Google Firebase, Air Berlin API, and Flickr Photo Groups
+  * Vue.js Application using A-Frame.js AR Library, Google Firebase, Air Berlin API, and Flickr
   * [link](https://bubblehub.club), [repo](https://github.com/okwme/bubblehub), [hackathon](https://www.tnooz.com/article/thack-berlin-Nov-2016/)
 * Float.Photo — 2015 Berlin Photo Hack Day Grand Prize Winner
   * CakePHP, MySQL, EyeEm API, AWS, Digital Ocean
@@ -28,5 +28,5 @@
   * [NYU Atlas of Urban Expansion](atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
   * [Haw-Lin](http://haw-lin.com/) Various Projects / Nathan Cowen, Jacob Klein — Berlin
   * [ApeUnit](http://www.apeunit.com/en/) Various Projects / Emil Wagner, Alex Peschel, Tim Herzog — Berlin
-  * [DisMagazine](dismagazine.com) Various Projects / Lauren Boyle, Solomon Chase, Marco Roso and David Toro — NYC
+  * [DisMagazine](dismagazine.com) Various Projects / Lauren & Marco Roso, Solomon Chase, David Toro — NYC
   * [AgencyV](https://agencyv.com) Internal Data Management / Rike Döpp — Berlin
