@@ -6,7 +6,7 @@
 ### [github](https://github.com/okwme), [artworks](https://billyrennekamp.com), [email](mailto:billy.rennekamp@gmail.com)
 
 ## Education
-* 2006-2010 - Bard College, Annandale-On-Hudson - BA in Film & Electronic Arts
+* 2006-2010 - Bard College - Annandale-On-Hudson, NY - BA in Film & Electronic Arts
 
 ## Selected Personal Projects
 * Clovers.Network — 2017 Cosmos Hackatom #2 Submission
