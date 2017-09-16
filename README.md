@@ -9,7 +9,7 @@
 * 2006-2010 - Bard College - Annandale-On-Hudson, NY - BA in Film & Electronic Arts
 
 ### Selected Personal Projects
-* Clovers.Network — 2017 Cosmos Hackatom #2 Submission
+* Clovers.Network — 2017 Cosmos Hackatom 2 Submission
   * Vue.js Application using Ethereum Blockchain as Backend & Database
   * [link](https://clovers.network), [repo](https://github.com/okwme/clovers-dapp), [hackathon](www.hackathon.io/cosmos-hackathon1)
 * BubbleHub.Club — 2016 Berlin Travel Hack Grand Prize Winner
@@ -25,7 +25,7 @@
 ### Selected Work Experience
 * Freelance Web Developer, 2010–
   * [Aimoic](https://www.aiomic.ai/) Vue.js / Ali Hashemi, Christos Klement — Toronto
-  * [NYU Atlas of Urban Expansion](atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
+  * [NYU Atlas of Urban Expansion](http://atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
   * [Haw-Lin](http://haw-lin.com/) Various Projects / Nathan Cowen, Jacob Klein — Berlin
   * [ApeUnit](http://www.apeunit.com/en/) Various Projects / Emil Wagner, Alex Peschel, Tim Herzog — Berlin
   * [DisMagazine](dismagazine.com) Various Projects / Lauren & Marco Roso, Solomon Chase, David Toro — NYC
