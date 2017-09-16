@@ -30,13 +30,3 @@
   * [ApeUnit](http://www.apeunit.com/en/) Various Projects / Emil Wagner, Alex Peschel, Tim Herzog — Berlin
   * [DisMagazine](dismagazine.com) Various Projects / Lauren Boyle, Solomon Chase, Marco Roso and David Toro — NYC
   * [AgencyV](https://agencyv.com) Internal Data Management / Rike Döpp — Berlin
-
-* Artist Assistance, 2008–2012:
-  * Raymond Pettibon (NY) 2012 / Heather Summers
-  * Dis Magazine (NY) 2011 / Marco Roso
-  * JODI (Rotterdam, Berlin) 2010 / Joan Heemskerk, Dirk Paesmans
-  * Oliver Laric (Berlin) 2009-2014 / Oliver Laric
-  * Aids-3D (Berlin) 2009 / Daniel Keller
-  * Cory Arcangel (NY) 2008/ Cory Arcangel
-  * Rhizome.org (NY) 2008 / Lauren Cornell
-  * Art Since the Summer of '69 (NY) 2008 / Hanne Mugaas
