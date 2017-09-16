@@ -28,5 +28,5 @@
   * [NYU Atlas of Urban Expansion](http://atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
   * [Haw-Lin](http://haw-lin.com/) Various Projects / Nathan Cowen, Jacob Klein — Berlin
   * [ApeUnit](http://www.apeunit.com/en/) Various Projects / Emil Wagner, Alex Peschel, Tim Herzog — Berlin
-  * [DisMagazine](dismagazine.com) Various Projects / Lauren & Marco Roso, Solomon Chase, David Toro — NYC
+  * [DisMagazine](http://dismagazine.com) Various Projects / Lauren & Marco Roso, Solomon Chase, David Toro — NYC
   * [AgencyV](https://agencyv.com) Internal Data Management / Rike Döpp — Berlin
