@@ -8,18 +8,7 @@
 ## Education
 * 2006-2010 - Bard College, Annandale-On-Hudson - BA in Film & Electronic Arts
 
-## Languages
-* 1- years in Solidity
-* 1+ years in ES6 Javascript, Ruby, Python, Java
-* 5+ years in ES5 Javascript, PHP, MySQL, HTML5, CSS3, SASS
-
-## Frameworks, Tools & Libraries
-* 1+ years in Vue.js, Webpack, Node, npm, Grunt, Video.js, A-Frame.js, Nginx
-* 3+ years in CakePHP (MVC), Are.na, Indexhibit, pmWiki, Drupal, Typo3, Shopify, Berta.fm, Stripe, Mailchimp, Apache, Nginx
-* 5+ years in Wordpress, jQuery, Git, Apache
-
-
-## Personal Projects
+## Selected Personal Projects
 * Clovers.Network — 2017 Cosmos Hackatom #2 Submission
   * Vue.js Application using Ethereum Blockchain as Backend & Database
   * [link](https://clovers.network), [repo](https://github.com/okwme/clovers-dapp), [hackathon](www.hackathon.io/cosmos-hackathon1)
