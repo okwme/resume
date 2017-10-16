@@ -9,13 +9,16 @@
 * 2006-2010 - Bard College - Annandale-On-Hudson, NY - BA in Film & Electronic Arts
 
 ### Selected Personal Projects
-* Clovers.Network — 2017 Cosmos Hackatom 2 Submission
+* 0xchange.me — 2017 ETHWaterloo Hack — First Place 0x API Prize
+  * Free & Open Decentralized Exchange using 0x Protocol
+  * [link](https://0xchange.me), [repo](https://github.com/okwme/0xchange), [hackathon](https://blog.0xproject.com/announcing-0x-api-prize-at-ethwaterloo-hackathon-1f06e9ecabdd)
+* Clovers.Network — 2017 Cosmos Hackatom 2 — Third Place Winner
   * Vue.js Application using Ethereum Blockchain as Backend & Database
   * [link](https://clovers.network), [repo](https://github.com/okwme/clovers-dapp), [hackathon](www.hackathon.io/cosmos-hackathon1)
-* BubbleHub.Club — 2016 Berlin Travel Hack Grand Prize Winner
+* BubbleHub.Club — 2016 Berlin Travel Hack — Grand Prize Winner
   * Vue.js Application using A-Frame.js AR Library, Google Firebase, Air Berlin API, and Flickr
   * [link](https://bubblehub.club), [repo](https://github.com/okwme/bubblehub), [hackathon](https://www.tnooz.com/article/thack-berlin-Nov-2016/)
-* Float.Photo — 2015 Berlin Photo Hack Day Grand Prize Winner
+* Float.Photo — 2015 Berlin Photo Hack Day — Grand Prize Winner
   * CakePHP, MySQL, EyeEm API, AWS, Digital Ocean
   * [link](https://bubblehub.club), [repo](https://github.com/okwme/float), [hackathon](https://www.eyeem.com/blog/the-winning-hacks-from-photo-hack-day-4-berlin/)
 * Sivi.me — 2011 Curriculum Vitae as a Service
