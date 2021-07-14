@@ -21,7 +21,7 @@
 	* [Interchain Stiftung, CH](https://interchain.io)
 * Developer Relations Manager, 2020-Present
 	* [Interchain GmbH, DE](https://interchain.berlin)
-* Front End Developer & Developer Relations Engineer, 2017-2020
+* Front End Developer & Developer Relations Engineer, 2018-2020
 	* [All in Bits GmbH, DE](https://tendermint.com)
 * Freelance Web Developer, 2010–2020
 	* [Aimoic](https://www.aiomic.ai/) Vue.js / Ali Hashemi, Christos Klement — 
