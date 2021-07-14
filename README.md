@@ -1,5 +1,5 @@
-### Billy Rennekamp
-#### [github](https://github.com/okwme), [artwork](https://billyrennekamp.com), [email](mailto:billy.rennekamp@gmail.com)
+### William Rennekamp
+#### [github](https://github.com/okwme), [email](mailto:billy.rennekamp@gmail.com)
     Karl-Marx-Strasse 33
     Berlin, Berlin 12043 DE
     +49 176 4446 4939
@@ -8,28 +8,25 @@
 ### Education
 * 2006-2010 - Bard College - Annandale-On-Hudson, NY - BA in Film & Electronic Arts
 
-### Selected Personal Projects
-* 0xchange.me — 2017 ETHWaterloo Hack — First Place 0x API Prize
-  * Free & Open Decentralized Exchange using 0x Protocol
-  * [link](https://0xchange.me), [repo](https://github.com/okwme/0xchange), [hackathon](https://blog.0xproject.com/announcing-0x-api-prize-at-ethwaterloo-hackathon-1f06e9ecabdd)
-* Clovers.Network — 2017 Cosmos Hackatom 2 — Third Place Winner
-  * Vue.js Application using Ethereum Blockchain as Backend & Database
-  * [link](https://clovers.network), [repo](https://github.com/okwme/clovers-dapp), [hackathon](www.hackathon.io/cosmos-hackathon1)
-* BubbleHub.Club — 2016 Berlin Travel Hack — Grand Prize Winner
-  * Vue.js Application using A-Frame.js AR Library, Google Firebase, Air Berlin API, and Flickr
-  * [link](https://bubblehub.club), [repo](https://github.com/okwme/bubblehub), [hackathon](https://www.tnooz.com/article/thack-berlin-Nov-2016/)
-* Float.Photo — 2015 Berlin Photo Hack Day — Grand Prize Winner
-  * CakePHP, MySQL, EyeEm API, AWS, Digital Ocean
-  * [link](https://bubblehub.club), [repo](https://github.com/okwme/float), [hackathon](https://www.eyeem.com/blog/the-winning-hacks-from-photo-hack-day-4-berlin/)
-* Sivi.me — 2011 Curriculum Vitae as a Service
-  * Exhibited a Klaus von Nichtssagend Gallery, NYC
-  * [link](https://sivi.me), [repo](https://github.com/okwme/sivi)
+### Selected Projects
+* Folia.app — 2021
+	* Non-Fungible Token Art Gallery
+	* [link](https://folia.app), [repo](https://github.com/folia-app)
+* Clovers.Network — 2017 Cosmos Hackatom 2 Submission
+	* Vue.js Application using Ethereum Blockchain as Backend & Database
+	* [link](https://clovers.network), [repo](https://github.com/clovers-network)
 
 ### Selected Work Experience
-* Freelance Web Developer, 2010–
-  * [Aimoic](https://www.aiomic.ai/) Vue.js / Ali Hashemi, Christos Klement — Toronto
-  * [NYU Atlas of Urban Expansion](http://atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
-  * [Haw-Lin](http://haw-lin.com/) Various Projects / Nathan Cowen, Jacob Klein — Berlin
-  * [ApeUnit](http://www.apeunit.com/en/) Various Projects / Emil Wagner, Alex Peschel, Tim Herzog — Berlin
-  * [DisMagazine](http://dismagazine.com) Various Projects / Lauren & Marco Roso, Solomon Chase, David Toro — NYC
-  * [AgencyV](https://agencyv.com) Internal Data Management / Rike Döpp — Berlin
+* Grants Manager, 2020—Present
+	* [Interchain Stiftung, CH](https://interchain.io)
+* Developer Relations Manager, 2020-Present
+	* [Interchain GmbH, DE](https://interchain.berlin)
+* Front End Developer & Developer Relations Engineer, 2017-2020
+	* [All in Bits GmbH, DE](https://tendermint.com)
+* Freelance Web Developer, 2010–2020
+	* [Aimoic](https://www.aiomic.ai/) Vue.js / Ali Hashemi, Christos Klement — 
+	* [NYU Atlas of Urban Expansion](http://atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
+	* [Haw-Lin](http://haw-lin.com/) Various Projects / Nathan Cowen, Jacob Klein — Berlin
+	* [ApeUnit](http://www.apeunit.com/en/) Various Projects / Emil Wagner, Alex Peschel, Tim Herzog — Berlin
+	* [DisMagazine](dismagazine.com) Various Projects / Lauren & Marco Roso, Solomon Chase, David Toro — NYC
+	* [AgencyV](https://agencyv.com) Internal Data Management / Rike Döpp — Berlin
