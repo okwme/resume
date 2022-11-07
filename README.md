@@ -17,12 +17,14 @@
 	* [link](https://clovers.network), [repo](https://github.com/clovers-network)
 
 ### Selected Work Experience
-* Grants Manager, 2020—Present
-	* [Interchain Stiftung, CH](https://interchain.io)
-* Developer Relations Manager, 2020-Present
-	* [Interchain GmbH, DE](https://interchain.berlin)
+* Cosmos Hub Lead, 2021—2022
+	* [Interchain GmbH, DE](https://interchain.berlin) (Cosmos Network Foundation Subsidiary)
+* Grants Manager, 2020—2021
+	* [Interchain Stiftung, CH](https://interchain.io) (Cosmos Network Foundation)
+* Developer Relations Manager, 2020-2021
+	* [Interchain GmbH, DE](https://interchain.berlin) (Cosmos Network Foundation Subsidiary)
 * Front End Developer & Developer Relations Engineer, 2018-2020
-	* [All in Bits GmbH, DE](https://tendermint.com)
+	* [All in Bits GmbH, DE](https://tendermint.com) (Tendermint, Inc.)
 * Freelance Web Developer, 2010–2020
 	* [Aimoic](https://www.aiomic.ai/) Vue.js / Ali Hashemi, Christos Klement — 
 	* [NYU Atlas of Urban Expansion](http://atlasexpansionurbanacolombia.org) Vue.js & CakePHP / William McCusker — NYC
