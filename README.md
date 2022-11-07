@@ -1,7 +1,7 @@
 ### William Rennekamp
 #### [github](https://github.com/okwme), [email](mailto:billy.rennekamp@gmail.com)
-    Karl-Marx-Strasse 33
-    Berlin, Berlin 12043 DE
+    Leuschnerdamm 7
+    Berlin, Berlin 10999 DE
     +49 176 4446 4939
     b. 1988 Louisville, KY
 
